@@ -1,7 +1,8 @@
-
+<html>
 <style>
   .cordel-signature a {color:#0d57e6;} 
 </style>
+  
 <div class="cordel-signature" style="font-family:sans-serif;">
   <p><strong> FirstName LastName </strong></br>
   Title</p>
@@ -25,3 +26,4 @@
   <img src="https://s3.ap-southeast-2.amazonaws.com/public.cordel.ai/img/Cordel/QMS_ISO27001_Approved.png" width="150"  style="vertical-align:top;">
   </p>
 </div>
+</html>
