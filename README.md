@@ -1,7 +1,10 @@
 <html>
+<head>
 <style>
   .cordel-signature a {color:#0d57e6;} 
 </style>
+</head>
+<body>
   
 <div class="cordel-signature" style="font-family:sans-serif;">
   <p><strong> FirstName LastName </strong></br>
